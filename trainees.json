@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Akinta elias",
+        "email": "akinta@gmail.com",
+        "practical": 70.0,
+        "assignment": 56.0,
+        "exam": 92.0,
+        "attendance": 45.0,
+        "total": 72.4,
+        "grade": "A",
+        "status": "NOT YET ELIGIBLE"
+    },
+    {
+        "id": "2",
+        "name": "test Elias",
+        "email": "test@gmail.com",
+        "practical": 78.0,
+        "assignment": 34.0,
+        "exam": 61.0,
+        "attendance": 80.0,
+        "total": 59.7,
+        "grade": "C",
+        "status": "PASS"
+    },
+    {
+        "id": "3",
+        "name": "Ebitigha Akinola Johnson",
+        "email": "akinta@aaua.edu.ng",
+        "practical": 45.0,
+        "assignment": 79.0,
+        "exam": 25.0,
+        "attendance": 70.0,
+        "total": 49.2,
+        "grade": "D",
+        "status": "NOT YET ELIGIBLE"
+    }
+]
